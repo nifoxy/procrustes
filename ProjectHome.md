@@ -1,0 +1,1 @@
+Procrustes is a forecast verification method developed by Dr. Steven Lack (National Oceanic and Atmospheric Administration).  This project is an implementation of that verification method written in C++.
